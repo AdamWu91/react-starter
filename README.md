@@ -4,7 +4,6 @@ Technology stack:
 
 * [TypeScript - Typed superset of JavaScript](https://www.typescriptlang.org/)
 * [React - Library for bulding UI](https://reactjs.org/)
-* [Redux - State container](https://redux.js.org/)
 * [Material-ui - Ready styles for react components](https://material-ui.com/)
 * [Jest - Unit testing library](https://jestjs.io/)
 * [Cypress - E2E testing library](https://www.cypress.io/)
