@@ -17,7 +17,7 @@ module.exports = {
   ],
   transform: {
     '.+\\.(js|jsx|ts|tsx)$': 'ts-jest',
-    '^.+\\.css$': '<rootDir>/config/jest/cssTransform.js',
+    '^.+\\.(css|scss)$': '<rootDir>/config/jest/cssTransform.js',
     '\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$': '<rootDir>/config/jest/fileTransform.js',
   },
   transformIgnorePatterns: [
